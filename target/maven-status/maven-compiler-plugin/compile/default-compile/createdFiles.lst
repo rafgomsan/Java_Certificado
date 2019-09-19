@@ -1,0 +1,10 @@
+br\com\swconsultoria\certificado\TipoCertificadoEnum.class
+br\com\swconsultoria\certificado\CertificadoProperties$1.class
+br\com\swconsultoria\certificado\Certificado.class
+br\com\swconsultoria\certificado\exception\CertificadoException.class
+br\com\swconsultoria\certificado\CertificadoService$1.class
+br\com\swconsultoria\certificado\SocketFactoryDinamico.class
+br\com\swconsultoria\certificado\AliasKeyManager.class
+br\com\swconsultoria\certificado\CertificadoProperties.class
+br\com\swconsultoria\certificado\CertificadoService.class
+br\com\swconsultoria\certificado\TipoCertificadoA3.class
